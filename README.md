@@ -16,12 +16,12 @@ Ensure Python 3.x is installed on your system.
 Clone this repository:
 
 bash
-git clone https://github.com/Lohi2005/Caesar-Cipher-Encryption-Decryption.git
+git clone https://github.com/Lohi2005/caesar_cipher_gui.git
 cd caesar-cipher-gui
 Run the script:
 
 bash
-python Caesar-Cipher-Encryption-Decryption.py
+python caesar_cipher_gui.py
 📁 File Structure
 Code
 caesar-cipher-gui/
